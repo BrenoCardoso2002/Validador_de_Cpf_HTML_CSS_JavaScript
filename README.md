@@ -13,4 +13,4 @@ Informaçõe do programa:
   Tipo de programa: Site
   Versão do programa: 1.0
   O que o programa faz: O sistema válida cpf. O usuario fornece um cpf e o sistema diz se é válido ou não.  
-  Link para ver o site executado:  
+  Link para ver o site executado: https://validando-cpf.netlify.app/
