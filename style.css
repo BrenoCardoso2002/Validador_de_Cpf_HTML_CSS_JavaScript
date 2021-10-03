@@ -1,7 +1,7 @@
 /* Estilo do corpo do site */
 body{
     background-color: rgba(128, 128, 128, 0.25);
-    font-family: cursive;
+    font-family: 'Times New Roman', serif;
     text-align: center;
     color: black;
 }
