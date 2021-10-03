@@ -1,0 +1,52 @@
+/* Estilo do corpo do site */
+body{
+    background-color: rgba(128, 128, 128, 0.25);
+    font-family: cursive;
+    text-align: center;
+    color: black;
+}
+
+/* Estilo do cabeçalo do site */
+header{
+    font-size: 36px;
+    font-weight: bold;
+}
+
+/* Estilo da seção principal do site */
+section{
+    font-size: 28px;
+    background: white;
+    border-radius: 25px;
+    padding: 10px;
+    width: 350px;
+    height: auto;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Estilo da caixa de texto do site */
+input{
+    border-radius: 5px;
+    font-size: 22px;
+    text-align: center;
+}
+
+/* Estilo da linha de resultado do site */
+p#status {
+    font-family: 'Times New Roman', serif;
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+
+/* Estilo do rodapé do site */
+footer{
+    font-size: 20px;
+}
+
+/* Estilo do rodapé do site quando o mouse estiver por cima*/
+footer :hover{
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}
